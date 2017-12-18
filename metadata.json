@@ -1,0 +1,9 @@
+{
+  "name": "glennsarti-pup8260",
+  "version": "0.1.0",
+  "author": "glennsarti",
+  "summary": "brief summary",
+  "license": "Apache-2.0",
+  "source": "source location of the module",
+  "dependencies": []
+}
